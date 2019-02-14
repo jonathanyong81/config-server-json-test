@@ -12,35 +12,12 @@ namespace config_server_json_test
     {
         private static void Main(string[] args)
         {
-            ParseJson2("config.json").Wait();
+            ParseJson("config.json").Wait();
 
             Console.ReadLine();
         }
 
         private static async Task ParseJson(string fileName)
-        {
-            var json = await File.ReadAllTextAsync(fileName).ConfigureAwait(false);
-
-            var deserialized = JObject.Parse(json);
-
-            var first = deserialized.First;
-
-            var jobTypes = deserialized.Properties();
-
-            var firstJobType = jobTypes.First();
-
-            var jobTypeNames = jobTypes.Select(jt => jt.Name);
-            Console.WriteLine(string.Join(", ", jobTypeNames));
-
-            var jobType = "Exchange";
-            var exchangeProperty = jobTypes.First(jt => jt.Name == jobType);
-            var exchangeFuelTypes = jobTypes.First(jt => jt.Name == jobType).Value.Children<JProperty>();
-            var exchangeFuelNames = exchangeFuelTypes.Select(ft => ft.Name);
-            Console.WriteLine(string.Join(", ", exchangeFuelNames));
-            // var exchangeFuelTypes = jobTypes.First(jt => jt.Name == jobType).Children().Select(ft => ft.Path);
-        }
-
-        private static async Task ParseJson2(string fileName)
         {
             var jobTypes = new List<JobType>();
             var supplierConfig = new SupplierConfiguration
