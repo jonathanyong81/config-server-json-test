@@ -1,0 +1,2237 @@
+﻿{
+  "SupplierCode": "FRST",
+  "JobTypes": [
+    {
+      "JobTypeName": "Exchange",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "I&C",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Additional Device",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Additional Device",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": [ "SMETS2 Commissioning", "SMETS2 to Traditional", "SMETS1 to Traditional", "SMETS2 to SMETS2", "Traditional to SMETS2", "SMETS1 to SMETS1", "SMETS1 to SMETS2", "Traditional to SMETS1", "Comms Hub Replacement" ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "JobTypeName": "Investigate",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    },
+                    {
+                      "BusinessTypeName": "I&C",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "JobTypeName": "Move",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "I&C",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "JobTypeName": "Remove",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Additional Device",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Warrant",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Additional Device",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "JobTypeName": "Repair",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "I&C",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "JobTypeName": "Install",
+      "FuelTypes": [
+        {
+          "FuelTypeName": "Elec",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Gas",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "N/A",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "I&C",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Additional Device",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Dual Fuel",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "Traditional",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Flexible",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Priority",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Standard",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                },
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "FuelTypeName": "Additional Device",
+          "MeterTypes": [
+            {
+              "MeterTypeName": "SMETS2",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "MeterTypeName": "SMETS1",
+              "ClassificationTypes": [
+                {
+                  "ClassificationTypeName": "Emergency",
+                  "BusinessTypes": [
+                    {
+                      "BusinessTypeName": "Domestic",
+                      "ExchangeTypes": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

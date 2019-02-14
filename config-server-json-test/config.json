@@ -1,0 +1,2130 @@
+﻿{
+  "Exchange": {
+    "Elec": {
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0042": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0043": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0044": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0041": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0243": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0038": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0039": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0040": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0037": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0242": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "WT0074": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0075": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0076": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0073": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0253": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      }
+    },
+    "Gas": {
+      "N/A": {
+        "Standard": {
+          "I&C": {
+            "WT0281": {}
+          }
+        }
+      },
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0174": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0175": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0176": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0173": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0261": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0170": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0171": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0172": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0169": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0260": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "WT0178": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0179": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0180": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0177": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0262": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "Additional Device": {
+        "Flexible": {
+          "Domestic": {
+            "WT0182": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0183": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0181": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0263": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0034": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0035": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0036": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0033": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0241": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "WT0030": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0031": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0032": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0029": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0240": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0070": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0071": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0072": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0069": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0252": {},
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            }
+          }
+        }
+      }
+    },
+    "Additional Device": {
+      "SMETS2": {
+        "Emergency": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0246": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Emergency": {
+          "Domestic": {
+            "Exchange Types": {
+              "SMETS2 Commissioning": {},
+              "SMETS2 to Traditional": {},
+              "SMETS1 to Traditional": {},
+              "SMETS2 to SMETS2": {},
+              "Traditional to SMETS2": {},
+              "SMETS1 to SMETS1": {},
+              "SMETS1 to SMETS2": {},
+              "Traditional to SMETS1": {},
+              "Comms Hub Replacement": {}
+            },
+            "WT0247": {}
+          }
+        }
+      }
+    }
+  },
+  "Investigate": {
+    "Elec": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0095": {},
+            "WT0101": {},
+            "WT0089": {},
+            "Investigate Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            },
+            "WT0107": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0096": {},
+            "WT0102": {},
+            "WT0108": {},
+            "Investigate Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            },
+            "WT0090": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0094": {},
+            "WT0100": {},
+            "WT0088": {},
+            "Investigate Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            },
+            "WT0106": {}
+          }
+        }
+      }
+    },
+    "Gas": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0200": {},
+            "WT0230": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0227": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0231": {},
+            "WT0201": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0228": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0199": {},
+            "WT0226": {},
+            "WT0229": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          },
+          "I&C": {
+            "WT0282": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0277": {},
+            "WT0268": {},
+            "WT0279": {},
+            "WT0278": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        }
+      },
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "WT0203": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0204": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0202": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0269": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0206": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0207": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0205": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0270": {},
+            "Investigate Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            }
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0086": {},
+            "WT0098": {},
+            "WT0104": {},
+            "Dual Fuel Gas Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0092": {},
+            "Dual Fuel Elec Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0099": {},
+            "WT0087": {},
+            "WT0105": {},
+            "Dual Fuel Gas Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0093": {},
+            "Dual Fuel Elec Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0097": {},
+            "WT0085": {},
+            "WT0103": {},
+            "Dual Fuel Gas Types": {
+              "Comms Check": {},
+              "SMICoP Audit": {},
+              "Gas Audit": {},
+              "I&C Survey": {},
+              "Site Investigation": {}
+            },
+            "WT0091": {},
+            "Dual Fuel Elec Types": {
+              "MSV": {},
+              "Load Test": {},
+              "Isolator Installations": {},
+              "Meter Reads": {},
+              "5 Year FWT": {},
+              "SMICoP Audit": {},
+              "Landlord Isolation": {},
+              "Accuracy Test": {},
+              "Virgin Data Reads": {},
+              "Site Investigation": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "Move": {
+    "Elec": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0131": {},
+            "WT0125": {},
+            "WT0113": {},
+            "WT0119": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0132": {},
+            "WT0120": {},
+            "WT0126": {},
+            "WT0114": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0130": {},
+            "WT0112": {},
+            "WT0124": {},
+            "WT0118": {}
+          }
+        }
+      }
+    },
+    "Gas": {
+      "N/A": {
+        "Standard": {
+          "I&C": {
+            "WT0283": {}
+          }
+        }
+      },
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "WT0221": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0222": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0220": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0275": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Flexible": {
+          "Domestic": {
+            "WT0218": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0219": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0217": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0274": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "WT0224": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0225": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0223": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0276": {}
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0122": {},
+            "WT0110": {},
+            "WT0116": {},
+            "WT0128": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0123": {},
+            "WT0111": {},
+            "WT0129": {},
+            "WT0117": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0121": {},
+            "WT0127": {},
+            "WT0115": {},
+            "WT0109": {}
+          }
+        }
+      }
+    }
+  },
+  "Remove": {
+    "Elec": {
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0026": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0027": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0028": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0025": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0239": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "WT0022": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0023": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0024": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0021": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0238": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "WT0082": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0083": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0084": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0081": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0255": {}
+          }
+        }
+      }
+    },
+    "Gas": {
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0189": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0190": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0191": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0188": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0265": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "WT0185": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0186": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0187": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0184": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0264": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "WT0193": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0194": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0195": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0192": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0266": {}
+          }
+        }
+      },
+      "Additional Device": {
+        "Flexible": {
+          "Domestic": {
+            "WT0197": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0198": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0196": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0267": {}
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "SMETS2": {
+        "Warrant": {
+          "Domestic": {
+            "WT0018": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0019": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0020": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0017": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0237": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Warrant": {
+          "Domestic": {
+            "WT0014": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0015": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0016": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0013": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0236": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Warrant": {
+          "Domestic": {
+            "WT0078": {}
+          }
+        },
+        "Flexible": {
+          "Domestic": {
+            "WT0079": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0080": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0077": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0254": {}
+          }
+        }
+      }
+    },
+    "Additional Device": {
+      "SMETS2": {
+        "Emergency": {
+          "Domestic": {
+            "WT0248": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Emergency": {
+          "Domestic": {
+            "WT0249": {}
+          }
+        }
+      }
+    }
+  },
+  "Repair": {
+    "Elec": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "Repair Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            },
+            "WT0155": {},
+            "WT0143": {},
+            "WT0149": {},
+            "WT0137": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Repair Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            },
+            "WT0150": {},
+            "WT0156": {},
+            "WT0144": {},
+            "WT0138": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Repair Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            },
+            "WT0154": {},
+            "WT0142": {},
+            "WT0148": {},
+            "WT0136": {}
+          }
+        }
+      }
+    },
+    "Gas": {
+      "N/A": {
+        "Standard": {
+          "I&C": {
+            "WT0284": {}
+          }
+        }
+      },
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0212": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0213": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0211": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0272": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Flexible": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0209": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0210": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0208": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0271": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0215": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0216": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0214": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0273": {},
+            "Repair Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            }
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "N/A": {
+        "Flexible": {
+          "Domestic": {
+            "WT0152": {},
+            "WT0140": {},
+            "WT0134": {},
+            "Dual Fuel Gas Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0146": {},
+            "Dual Fuel Elec Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            }
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0141": {},
+            "WT0153": {},
+            "WT0147": {},
+            "Dual Fuel Gas Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "WT0135": {},
+            "Dual Fuel Elec Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            }
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0151": {},
+            "WT0145": {},
+            "WT0133": {},
+            "Dual Fuel Gas Types": {
+              "GIST": {},
+              "Battery Exchange": {},
+              "PPMID": {},
+              "IHD": {},
+              "Meter Maintenance": {},
+              "Modem Install": {}
+            },
+            "Dual Fuel Elec Types": {
+              "PPMID": {},
+              "IHD": {},
+              "Snag Visit": {}
+            },
+            "WT0139": {}
+          }
+        }
+      }
+    }
+  },
+  "Install": {
+    "Elec": {
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "WT0011": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0012": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0010": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0235": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Flexible": {
+          "Domestic": {
+            "WT0008": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0009": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0007": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0234": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "WT0067": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0068": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0066": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0251": {}
+          }
+        }
+      }
+    },
+    "Gas": {
+      "N/A": {
+        "Standard": {
+          "I&C": {
+            "WT0280": {}
+          }
+        }
+      },
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "WT0161": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0162": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0160": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0257": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Flexible": {
+          "Domestic": {
+            "WT0158": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0159": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0157": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0256": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "WT0164": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0165": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0163": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0258": {}
+          }
+        }
+      },
+      "Additional Device": {
+        "Flexible": {
+          "Domestic": {
+            "WT0167": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0168": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0166": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0259": {}
+          }
+        }
+      }
+    },
+    "Dual Fuel": {
+      "SMETS2": {
+        "Flexible": {
+          "Domestic": {
+            "WT0005": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0006": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0004": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0233": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Flexible": {
+          "Domestic": {
+            "WT0002": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0003": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0001": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0232": {}
+          }
+        }
+      },
+      "Traditional": {
+        "Flexible": {
+          "Domestic": {
+            "WT0064": {}
+          }
+        },
+        "Priority": {
+          "Domestic": {
+            "WT0065": {}
+          }
+        },
+        "Standard": {
+          "Domestic": {
+            "WT0063": {}
+          }
+        },
+        "Emergency": {
+          "Domestic": {
+            "WT0250": {}
+          }
+        }
+      }
+    },
+    "Additional Device": {
+      "SMETS2": {
+        "Emergency": {
+          "Domestic": {
+            "WT0244": {}
+          }
+        }
+      },
+      "SMETS1": {
+        "Emergency": {
+          "Domestic": {
+            "WT0245": {}
+          }
+        }
+      }
+    }
+  }
+}
