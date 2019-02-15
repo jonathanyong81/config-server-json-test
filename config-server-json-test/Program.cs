@@ -60,6 +60,8 @@ namespace config_server_json_test
 
             var newJson = JsonConvert.SerializeObject(supplierConfig);
             Console.WriteLine(newJson);
+
+            await File.WriteAllTextAsync("transformed.json", newJson).ConfigureAwait(false);
         }
     }
 
