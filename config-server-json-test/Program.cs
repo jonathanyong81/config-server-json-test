@@ -48,7 +48,9 @@ namespace config_server_json_test
                                 BusinessTypes = ct.Value.Children<JProperty>().Select(bt => new BusinessType
                                 {
                                     BusinessTypeName = bt.Name,
-                                    ExchangeTypes = bt.Value.Children<JProperty>().FirstOrDefault(et => et.Name == "Exchange Types")?.Value?.Children<JProperty>().Select(et => et.Name)
+                                    ExchangeTypes = bt.Value.Children<JProperty>().FirstOrDefault(et => et.Name == "Exchange Types")?.Value?.Children<JProperty>().Select(et => et.Name),
+                                    InvestigateTypes = bt.Value.Children<JProperty>().FirstOrDefault(et => et.Name == "Investigate Types")?.Value?.Children<JProperty>().Select(et => et.Name),
+                                    RepairTypes = bt.Value.Children<JProperty>().FirstOrDefault(et => et.Name == "Repair Types")?.Value?.Children<JProperty>().Select(et => et.Name)
                                 })
                             })
                         })
@@ -99,5 +101,7 @@ namespace config_server_json_test
     {
         public string BusinessTypeName { get; set; }
         public IEnumerable<string> ExchangeTypes { get; set; }
+        public IEnumerable<string> InvestigateTypes { get; set; }
+        public IEnumerable<string> RepairTypes { get; set; }
     }
 }
